@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="150mm"
+   viewBox="0 0 210 150"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="Part2-Prob3(ii).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5769167"
+     inkscape:cx="396.66015"
+     inkscape:cy="283.46457"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker26"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path26" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path13" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#808080;stroke-width:0.283;stroke:#808080;stroke-dasharray:none"
+       d="m 98.508165,33.806746 1.007026,75.892904"
+       id="path1" />
+    <path
+       style="fill:#808080;stroke:#808080;stroke-width:0.283001;stroke-dasharray:none"
+       d="M 41.788984,71.505333 150.74894,71.148463"
+       id="path2" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.346096;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="m 103.6549,71.541671 h 5.25588"
+       id="path3" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.393;stroke-dasharray:none;marker-end:url(#marker5)"
+       d="m 104.74073,62.575015 4.71101,6.302456"
+       id="path4" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.396;stroke-dasharray:none;marker-end:url(#marker5)"
+       d="m 115.04379,62.739254 9.5421,6.800808"
+       id="path7" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.383;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="m 114.32179,71.532495 h 10.23636"
+       id="path8" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.441262;stroke-dasharray:none;marker-end:url(#marker13)"
+       d="m 106.50218,50.22178 8.30583,19.065923"
+       id="path12" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.346096;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="m 95.172328,71.65899 h -5.25588"
+       id="path14" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.393;stroke-dasharray:none;marker-end:url(#marker5)"
+       d="m 94.086498,62.692334 -4.71101,6.302456"
+       id="path15" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.396;stroke-dasharray:none;marker-end:url(#marker5)"
+       d="m 83.783438,62.856573 -9.5421,6.800808"
+       id="path16" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.383;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="M 84.505438,71.649814 H 74.269078"
+       id="path17" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.441262;stroke-dasharray:none;marker-end:url(#marker13)"
+       d="m 92.325048,50.339099 -8.30583,19.065923"
+       id="path18" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.393;stroke-dasharray:none;marker-end:url(#marker5)"
+       d="m 104.96029,79.849123 4.71101,-6.302456"
+       id="path19" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.396;stroke-dasharray:none;marker-end:url(#marker5)"
+       d="m 115.11589,79.429929 9.5421,-6.800808"
+       id="path20" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.441262;stroke-dasharray:none;marker-end:url(#marker13)"
+       d="m 106.5592,93.273955 8.30583,-19.065923"
+       id="path21" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.393;stroke-dasharray:none;marker-end:url(#marker5)"
+       d="m 94.274601,80.503878 -4.71101,-6.302456"
+       id="path22" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.396;stroke-dasharray:none;marker-end:url(#marker5)"
+       d="m 83.695613,80.092549 -9.5421,-6.800808"
+       id="path23" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.441262;stroke-dasharray:none;marker-end:url(#marker13)"
+       d="M 92.35192,92.752247 84.04609,73.686324"
+       id="path24" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.383;stroke-dasharray:none;marker-end:url(#marker26)"
+       d="m 99.031956,62.189989 0.0852,9.221634"
+       id="path25" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.383;stroke-dasharray:none;marker-end:url(#marker26)"
+       d="m 98.954617,84.549622 0.0852,-9.221634"
+       id="path27" />
+  </g>
+</svg>
