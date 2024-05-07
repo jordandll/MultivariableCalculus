@@ -1,3 +1,4 @@
 *.pdf
 .ipynb_checkpoints/
 DoubleIntegrals/DoubleIntegrals/PSets/pset7-partII-info.txt
+.idea/inspectionProfiles/profiles_settings.xml
