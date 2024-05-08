@@ -23,7 +23,7 @@ X_v, Y_v = np.meshgrid(X_v,Y_v)
 rho = X*Y
 v = (np.ones(X_v.shape),-Y_v/X_v)
 rho_F = X_v*Y_v
-F = (rho_F*v[0],rho_F*v[1])
+F = (rho_F * v[0],rho_F * v[1])
 
 """ Define the position vector 'r', which tracks the movement of 'P'"""
 x_0, y_0 = 1, 3
